@@ -1,5 +1,20 @@
 ## Bringing ICCV 2025 to Shenzhen
 
+### Executive Summary
+```
+1. Large computer vision community in Shenzhen and the Greater Bay
+Area;
+
+2. Good conference infrastructure secured;
+
+3. A pleasant place with nice weather, lots of attractions, and
+sophisticated cuisine;
+
+4. Easy to travel to/within the Greater Bay Area;
+
+5. Affordable, with family support
+```
+
 ### Dynamic Location
 
 Shenzhen, located at the center of the Greater Bay Area with a population of 70 million in Southern China, is a dynamic city having many high-tech businesses and renowned research institutions.  You are sincerely invited to watch a short video introducing this dynamic city.
