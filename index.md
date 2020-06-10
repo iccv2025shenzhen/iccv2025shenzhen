@@ -17,9 +17,9 @@ sophisticated cuisine;
 
 ### Dynamic Location
 
-Shenzhen, located at the center of the Greater Bay Area with a population of 70 million in Southern China, is a dynamic city having many high-tech businesses and renowned research institutions.  You will also have many places to visit during your stay at Shenzhen. If you are a fan of electronic gadgets, there is the world's largest marketplace -- Huaqiangbei. If you'd like to spend a pleasant vocation with your family, you can campaign on scenic beaches (Xiaomeisha, Xichong, Dameisha etc.).  You may also experience the splendid China culture by visiting ancient villages and watching art performances. Shenzhen is where the traddition and modern China converge.
+Shenzhen, located at the center of the Greater Bay Area with a population of 70 million in Southern China, is a dynamic city having many high-tech businesses and renowned research institutions.  You will also have many places to visit during your stay at Shenzhen. If you are a fan of electronic gadgets, there is the world's largest marketplace -- Huaqiangbei. If you'd like to spend a pleasant vacation with your family, you can campaign on scenic beaches (Xiaomeisha, Xichong, Dameisha etc.).  You may also experience the splendid China culture by visiting ancient villages and watching art performances. Shenzhen is such a dynamic city where the traddition and modern China converge.
 
-You are sincerely invited to watch a short video introducing this dynamic city.
+You are sincerely invited to watch a short video introducing Shenzhen.
 
 #### Youtube.com 
 <iframe width="638" height="356" src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,7 +31,7 @@ You are sincerely invited to watch a short video introducing this dynamic city.
 
 The proposed conference is scheduled to be a seven-day event, beginning 14 December 2025 through 20 December 2025. You will enjoy a pleasant winter travel in Shenzhen, and have chance to visit many dynamic cities such as Gangdong (29 min by train), Hong Kong (18 min by train) and Macau and Zhuhai (by ferry or through the world's longest bridge) with your family in the Greater Bay Area. 
 
-These cities are connnected via a world-class high-speed train system, making travels in the Greater Bay Area a super comfortable experience. You may plan an unforgetable holiday with your family and significant ones, welcoming the new year of 2026 together in the Disneyland theme park of Hong Kong, on the Pearl River night cruise of Guangzhou, or in the Sands' luxury casinos of Macau.
+These cities are connnected via a world-class high-speed train system, making traveling in the Greater Bay Area super easy and comfortable. You may plan an unforgetable holiday with your family and significant ones, welcoming the new year of 2026 together on the Pearl River night cruise of Guangzhou, in the Disneyland theme park of Hong Kong, or in the Sands' luxury casinos of Macau.
 
 ### Diverse Team 
 
