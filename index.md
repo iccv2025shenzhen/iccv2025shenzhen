@@ -24,7 +24,7 @@ Shenzhen is such a dynamic city where the traddition and modern China converge. 
 #### Youtube.com 
 <iframe width="638" height="356" src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Bilibili.com
+#### Bilibili.com (within China)
 <iframe width="638" height="356" src="//player.bilibili.com/player.html?aid=19348684&bvid=BV1sW411n7EJ&cid=31553075&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### Delightful Weather
