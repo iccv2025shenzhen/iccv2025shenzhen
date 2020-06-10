@@ -6,10 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Our proposal
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Welcome to read our proposal for ICCV 2025 at Shenzhen. You can download our proposal at []().
 
-
-<iframe width="638" height="500" src="//www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="638" height="500" src="http://www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 ```markdown
