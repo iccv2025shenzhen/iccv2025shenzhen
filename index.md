@@ -1,19 +1,19 @@
 ## Bringing ICCV 2025 to Shenzhen
 
 ### Executive Summary
-```
-1. Large computer vision community in Shenzhen and the Greater Bay
+
+* 1. Large computer vision community in Shenzhen and the Greater Bay
 Area;
 
-2. Good conference infrastructure secured;
+* 2. World-class conference infrastructure secured;
 
-3. A pleasant place with nice weather, lots of attractions, and
+* 3. A pleasant place with nice weather, lots of attractions, and
 sophisticated cuisine;
 
-4. Easy to travel to/within the Greater Bay Area;
+* 4. Easy to travel to from around the world, and easy to travel within the Greater Bay area;
 
-5. Affordable, with family support
-```
+* 5. Affordable, with family support.
+
 
 ### Dynamic Location
 
