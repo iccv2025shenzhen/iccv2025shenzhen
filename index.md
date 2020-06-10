@@ -15,7 +15,7 @@ Welcome to read our proposal for ICCV 2025 at Shenzhen. You can download our pro
 >
 </div>
 
-<iframe width="638" height="500" src="https://iccv2025shenzhen.github.io/ICCV2025shenzhen.pdf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 
 ```markdown
