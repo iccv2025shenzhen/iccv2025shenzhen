@@ -39,7 +39,7 @@ Welcome to download and read our proposal [(full version, 15MB)](http://iccv2025
 
 You can also play it below.
 
-[![index.png](http://iccv2025shenzhen.github.io/index.png)](https://github.com/iccv2025shenzhen/iccv2025shenzhen.github.io/blob/master/ICCV2025shenzhen.pdf)
+[<img src="https://github.com/favicon.ico" width="638">](https://github.com/iccv2025shenzhen/iccv2025shenzhen.github.io/blob/master/ICCV2025shenzhen.pdf)
 
 ## Questions?
 
