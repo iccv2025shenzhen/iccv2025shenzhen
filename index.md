@@ -9,9 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-<iframe width="638" height="356" src="//www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="638" height="638" src="//www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-<iframe width="638" height="356" src="http://www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ```markdown
 Syntax highlighted code block
