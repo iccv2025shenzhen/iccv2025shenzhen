@@ -34,7 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 25px;
-    height: 0;
+    height: 200;
   }
 
 .embed-youtube iframe {
@@ -45,7 +45,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
     height: 100%;
   }
 
-{% include youtube_shenzhen.html %}
+
 
 <div class="embed-youtube">
     <iframe src="https://www.youtube.com/embed/kahd3KmNsOE"  
