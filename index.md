@@ -14,6 +14,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
     </embed>
 </object>
 
+<iframe width="638" height="356" src="http://www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ```markdown
 Syntax highlighted code block
 
