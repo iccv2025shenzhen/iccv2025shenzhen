@@ -2,17 +2,17 @@
 
 ### Executive Summary
 
-* 1. Large computer vision community in Shenzhen and the Greater Bay
+* Large computer vision community in Shenzhen and the Greater Bay
 Area;
 
-* 2. World-class conference infrastructure secured;
+* World-class conference infrastructure secured;
 
-* 3. A pleasant place with nice weather, lots of attractions, and
+* A pleasant place with nice weather, lots of attractions, and
 sophisticated cuisine;
 
-* 4. Easy to travel to from around the world, and easy to travel within the Greater Bay area;
+* Easy to travel to from around the world, and easy to travel within the Greater Bay area;
 
-* 5. Affordable, with family support.
+* Affordable, with family support.
 
 
 ### Dynamic Location
