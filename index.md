@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Bringing ICCV 2025 to Shenzhen
 
 You can use the [editor on GitHub](https://github.com/iccv2025shenzhen/iccv2025shenzhen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Our proposal
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-<iframe width="638" height="638" src="//www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="638" height="500" src="//www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 ```markdown
