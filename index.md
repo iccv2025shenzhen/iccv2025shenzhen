@@ -8,11 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<object data="http://www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
+<iframe width="638" height="356" src="//www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <iframe width="638" height="356" src="http://www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -40,9 +37,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 
-<div class="embed-youtube">
+
 <iframe width="638" height="356" src="//player.bilibili.com/player.html?aid=19348684&bvid=BV1sW411n7EJ&cid=31553075&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</div>
+
 
 <iframe width="638" height="356" src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
