@@ -30,30 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-.embed-youtube {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 25px;
-    height: 200;
-  }
-
-.embed-youtube iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-
-
-
-<div class="embed-youtube">
-    <iframe src="https://www.youtube.com/embed/kahd3KmNsOE"  
-        frameborder="0" 
-        allowtransparency="true" 
-        allow="encrypted-media">
-    </iframe>
-</div>
+{% include youtube_shenzhen.html %}
 
 
 <div class="embed-youtube">
