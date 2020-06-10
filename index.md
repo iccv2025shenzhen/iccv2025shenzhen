@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Our proposal
 
-Welcome to read our proposal for ICCV 2025 at Shenzhen. You can download our proposal at [compact version (5MB)](http://iccv2025shenzhen.github.io/iccv2025shenzhen.pdf).
+Welcome to read our proposal for ICCV 2025 at Shenzhen. You can download our proposal at [full version (15MB)(http://iccv2025shenzhen.github.io/iccv2025shenzhen.pdf) and [compact version (5MB)](http://iccv2025shenzhen.github.io/iccv2025shenzhen.pdf).
 
 <div class="pdf-container"
   data-file="https://raw.githubusercontent.com/iccv2025shenzhen/iccv2025shenzhen.github.io/55001e38ecfd5addf880b982ce5c023e8bba7964/_includes/ICCV2025shenzhen.pdf"
