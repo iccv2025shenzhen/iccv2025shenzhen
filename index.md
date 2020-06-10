@@ -31,7 +31,7 @@ You are sincerely invited to watch a short video introducing this dynamic city.
 
 The proposed conference is scheduled to be a seven-day event, beginning 14 December 2025 through 20 December 2025. You will enjoy a pleasant winter travel in Shenzhen, and have chance to visit many dynamic cities such as Gangdong (29 min by train), Hong Kong (18 min by train) and Macau and Zhuhai (by ferry or through the world's longest bridge) with your family in the Greater Bay Area. 
 
-These cities are connnected via a world-class high-speed train system, making travels in the Greater Bay Area a super comfortable experience. You may plan an unforgetable holiday with your family and significant ones, welcoming the new year of 2026 together in the Disneyland theme park of Hong Kong, on the Pearl River night cruise of Guangzhou, or in the Sands' casinos of Macau.
+These cities are connnected via a world-class high-speed train system, making travels in the Greater Bay Area a super comfortable experience. You may plan an unforgetable holiday with your family and significant ones, welcoming the new year of 2026 together in the Disneyland theme park of Hong Kong, on the Pearl River night cruise of Guangzhou, or in the Sands' luxury casinos of Macau.
 
 ### Diverse Team 
 
