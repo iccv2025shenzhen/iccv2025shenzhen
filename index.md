@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Welcome to read our proposal for ICCV 2025 at Shenzhen. You can download our proposal at []().
 
-<iframe width="638" height="500" src="https://github.com/iccv2025shenzhen/iccv2025shenzhen.github.io/blob/master/ICCV2025shenzhen.pdf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="638" height="500" src="https://iccv2025shenzhen.github.io/ICCV2025shenzhen.pdf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 ```markdown
