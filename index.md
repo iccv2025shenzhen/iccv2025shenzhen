@@ -8,6 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+<object data="http://www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://www.cs.ucf.edu/~gqi/publications/CVPR2020_WCP.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ```markdown
 Syntax highlighted code block
 
