@@ -26,7 +26,7 @@ Shenzhen is such a dynamic city where the traddition and modern China converge. 
 <link rel="stylesheet" type="text/css" href="video-responsive.css" />
 
 <div class="video-responsive">
-<iframe width="638" height="356" src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="715" src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 #### Bilibili.com (within China)
