@@ -17,7 +17,7 @@ sophisticated cuisine;
 
 ### Dynamic Location (地利)
 
-Shenzhen, located at the center of the Greater Bay Area with a population of 70 million in Southern China, is a dynamic city having many high-tech businesses and renowned research institutions.  You will have many places to visit during your stay at Shenzhen. If you are a fan of electronic gadgets, there is the world's largest marketplace -- Huaqiangbei. If you'd like to spend a pleasant vacation with your family, you can campaign on scenic beaches (Xiaomeisha, Xichong, Dameisha etc.) and stay in luxury beach hotels with gorgeous ocrean views.  You will also enjoy the splendid China culture by visiting ancient villages, watching art performances, and enjoying the best food in the captial of dim sum  where it originated known as morning tea. 
+Shenzhen, located at the center of the Greater Bay Area with a population of 70 million in Southern China, is a dynamic city boasting the home to many high-tech businesses and renowned research institutions.  You will have many places to visit during your stay at Shenzhen. If you are a fan of electronic gadgets, there is the world's largest marketplace -- Huaqiangbei. If you'd like to spend a pleasant vacation with your family, you can campaign on scenic beaches (Xiaomeisha, Xichong, Dameisha etc.) and stay in luxury beach hotels with gorgeous ocrean views.  You will also enjoy the splendid China culture by visiting ancient villages, watching art performances, and enjoying the best food in the captial of dim sum  where it originated known as morning tea. 
 
 Shenzhen is such a dynamic city where the traddition and modernity converge.  You are sincerely invited to watch a short video introducing Shenzhen.
 
