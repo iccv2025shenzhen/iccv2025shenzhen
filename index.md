@@ -50,7 +50,7 @@ We present a diverse organizing team that already covers the key roles, includin
 
 You are sincerely invited to download and read our proposal [(high resolution, 15MB)](http://iccv2025shenzhen.github.io/ICCV2025shenzhen.pdf) and [(low resolution, 6MB)](http://iccv2025shenzhen.github.io/ICCV2025shenzhen_compact.pdf) for ICCV 2025 at Shenzhen.
 
-You can click the following photo to view it online without downloading it.
+You can click on the following photo to view it online without downloading it.
 
 [<img src="https://iccv2025shenzhen.github.io/index.png" width="638">](https://github.com/iccv2025shenzhen/iccv2025shenzhen.github.io/blob/master/ICCV2025shenzhen.pdf)
 
