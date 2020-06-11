@@ -17,9 +17,9 @@ sophisticated cuisine;
 
 ### Dynamic Location (地利)
 
-Shenzhen, located at the center of the Greater Bay Area with a population of 70 million in Southern China, is a dynamic city boasting the home to many high-tech businesses and renowned research institutions.  You will have many places to visit during your stay at Shenzhen. If you are a fan of electronic gadgets, there is the world's largest marketplace -- Huaqiangbei. If you'd like to spend a pleasant vacation with your family, you can camp on scenic beaches (Xiaomeisha, Xichong, Dameisha etc.) and stay in luxury beach hotels with gorgeous ocean views.  You will also enjoy the splendid Chinese culture by visiting ancient villages, watching art performances, and enjoying the best food in the captial of dim sum  where it originated known as morning tea. 
+Shenzhen, located at the center of the Greater Bay Area with a population of 70 million in Southern China, is a dynamic city boasting the home to many high-tech businesses and renowned research institutions.  You will have many places to visit during your stay at Shenzhen. If you are a fan of electronic gadgets, there is the world's largest marketplace -- Huaqiangbei. If you'd like to spend a pleasant vacation with your family, you can camp on scenic beaches (Xiaomeisha, Xichong, Dameisha etc.) and stay in luxury beach hotels with gorgeous ocean views.  You will also enjoy the splendid Chinese culture by visiting ancient villages, watching art performances, and enjoying the best food in the captial of dim sum where it is originated known as morning tea. 
 
-Shenzhen is such a dynamic city where traddition and modernity converge.  You are sincerely invited to watch a short video introducing Shenzhen.
+Shenzhen is such a dynamic city where traddition and modernity converge.  We sincerely invite you to watch a short video introducing Shenzhen.
 
 #### Youtube.com 
 
@@ -39,7 +39,7 @@ Shenzhen is such a dynamic city where traddition and modernity converge.  You ar
 
 The proposed conference is scheduled to be a seven-day event, beginning 14 December 2025 through 20 December 2025. Shenzhen has a very pleasant winter in this period, with an average temperature of 65°F or 18°C in December.  You will have an enjoyable holiday season travel to Shenzhen, and have the chance to visit many dynamic cities such as Gangzhou (29 min by train), Hong Kong (18 min by train) and Macau and Zhuhai (by ferry, or via the HZM bring, the world's longest sea crossing bridge of 34 miles) in the Greater Bay Area. 
 
-These vivid cities are closely connnected via a world-class high-speed train system, making traveling in the Greater Bay Area super easy and comfortable. You will have an unforgettable holiday with your family and significant ones, welcoming the new year of 2026 together in world's best beach hotels of Shenzhen, on the Pearl River night cruise of Guangzhou, in the Disneyland theme park of Hong Kong, or in the Sands' landmark casino hotels of Macau.
+These vivid cities are closely connnected via a world-class high-speed train system, making traveling in the Greater Bay Area super easy, both comfortable and affordable. You will have an unforgettable holiday with your family and significant ones, welcoming the new year of 2026 together in Shenzhen's best beach hotels, on the Pearl River night cruise of Guangzhou, in the Disneyland theme park of Hong Kong, or in the Sands' landmark casino hotels of Macau.
 
 ### Diverse Team (人和)
 
