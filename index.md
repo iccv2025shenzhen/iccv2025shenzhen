@@ -56,5 +56,5 @@ You can click on the following photo to view it online without downloading it.
 
 ## Questions?
 
-Having questions about our proposal? Email us at iccv2025@gmail.com and we are looing forward to hearing your opinions and suggestions about our proposal.
+Having questions about our proposal? Email us at iccv2025@gmail.com and we are looking forward to hearing your opinions and suggestions about our proposal.
 
