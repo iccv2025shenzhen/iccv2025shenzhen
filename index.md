@@ -17,9 +17,9 @@ sophisticated cuisine;
 
 ### Dynamic Location
 
-Shenzhen, located at the center of the Greater Bay Area with a population of 70 million in Southern China, is a dynamic city having many high-tech businesses and renowned research institutions.  You will have many places to visit during your stay at Shenzhen. If you are a fan of electronic gadgets, there is the world's largest marketplace -- Huaqiangbei. If you'd like to spend a pleasant vacation with your family, you can campaign on scenic beaches (Xiaomeisha, Xichong, Dameisha etc.) and stay in seaside luxury hotels.  You will also enjoy the splendid China culture by visiting ancient villages, watching art performances, and enjoying the best food in the captial of dim sum  where it originated known as morning tea. 
+Shenzhen, located at the center of the Greater Bay Area with a population of 70 million in Southern China, is a dynamic city having many high-tech businesses and renowned research institutions.  You will have many places to visit during your stay at Shenzhen. If you are a fan of electronic gadgets, there is the world's largest marketplace -- Huaqiangbei. If you'd like to spend a pleasant vacation with your family, you can campaign on scenic beaches (Xiaomeisha, Xichong, Dameisha etc.) and stay in luxury beach hotels with gorgeous ocrean views.  You will also enjoy the splendid China culture by visiting ancient villages, watching art performances, and enjoying the best food in the captial of dim sum  where it originated known as morning tea. 
 
-Shenzhen is such a dynamic city where the traddition and modern China converge.  You are sincerely invited to watch a short video introducing Shenzhen.
+Shenzhen is such a dynamic city where the traddition and modernity converge.  You are sincerely invited to watch a short video introducing Shenzhen.
 
 #### Youtube.com 
 
@@ -37,23 +37,24 @@ Shenzhen is such a dynamic city where the traddition and modern China converge. 
 
 ### Delightful Weather
 
-The proposed conference is scheduled to be a seven-day event, beginning 14 December 2025 through 20 December 2025. You will enjoy a pleasant winter travel in Shenzhen, and have chance to visit many dynamic cities such as Gangdong (29 min by train), Hong Kong (18 min by train) and Macau and Zhuhai (by ferry or through the world's longest bridge) with your family in the Greater Bay Area. 
+The proposed conference is scheduled to be a seven-day event, beginning 14 December 2025 through 20 December 2025. Shenzhen has a very pleasant winter in this period, with an average temperature of 65°F or 18°C in December.  You will have an enjoyable holiday season travel to Shenzhen, and have chance to visit many dynamic cities such as Gangzhou (29 min by train), Hong Kong (18 min by train) and Macau and Zhuhai (by ferry, or through the HZM bring, the world's longest sea crossing bridge of 34 miles) in the Greater Bay Area. 
 
-These cities are closely connnected via a world-class high-speed train system, making traveling in the Greater Bay Area super easy and comfortable. You may plan an unforgetable holiday with your family and significant ones, welcoming the new year of 2026 together in world's best seaside beach hotels of Shenzhen, on the Pearl River night cruise of Guangzhou, in the Disneyland theme park of Hong Kong, or in the Sands' luxury casinos of Macau.
+These vivid cities are closely connnected via a world-class high-speed train system, making traveling in the Greater Bay Area super easy and comfortable. You will have an unforgetable holiday with your family and significant ones, welcoming the new year of 2026 together in world's best beach hotels of Shenzhen, on the Pearl River night cruise of Guangzhou, in the Disneyland theme park of Hong Kong, or in the Sands' landmark casino hotels of Macau.
 
 ### Diverse Team 
 
-We propose an organizing team that already covers the key roles, including three honorary chairs, four General Chairs, five Program Chairs, two Finance Chairs and three Local Arrangement Chairs from the Americas, Asia-Pacific Region and Europe. Young talents are well represented on the team, who will work closely with the senior members in organizing the conference and preparing a high-quality program.
+We propose a diverse organizing team that already covers the key roles, including three honorary Chairs, four General Chairs, five Program Chairs, two Finance Chairs and three Local Arrangement Chairs from the Americas, Asia-Pacific Region and Europe. Young talents are well represented on the team, who will work closely with the senior members in organizing the conference and preparing a high-quality program. Other organizing committee members will be filled in later, again according to the principle of diversity.
+
 
 ## Our proposal
 
 Welcome to download and read our proposal [(full version, 15MB)](http://iccv2025shenzhen.github.io/iccv2025shenzhen.pdf) and [(compact version, 5MB)](http://iccv2025shenzhen.github.io/iccv2025shenzhen.pdf) for ICCV 2025 at Shenzhen.
 
-You may also click the following photo to view it online without downloading it.
+You can click the following photo to view it online without downloading it.
 
 [<img src="https://iccv2025shenzhen.github.io/index.png" width="638">](https://github.com/iccv2025shenzhen/iccv2025shenzhen.github.io/blob/master/ICCV2025shenzhen.pdf)
 
-## Questions?
+## Questions and Feedback?
 
 Having questions about our proposal? Email us at iccv2025@gmail.com and we are looing forward to hearing your voices and feedback on our proposal.
 
