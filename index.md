@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+[Link to another page](/another-page.html).
 
 ## Bringing ICCV 2025 to Shenzhen
 
@@ -54,11 +54,11 @@ We propose a diverse organizing team that already covers the key roles, includin
 
 ## Our proposal
 
-You are sincerely invited to download and read our proposal [(high resolution, 15MB)](http://iccv2025shenzhen.github.io/ICCV2025shenzhen.pdf) and [(low resolution, 6MB)](http://iccv2025shenzhen.github.io/ICCV2025shenzhen_compact.pdf) for ICCV 2025 at Shenzhen.
+You are sincerely invited to download and read our proposal [(high resolution, 15MB)](/assets/file/ICCV2025shenzhen.pdf) and [(low resolution, 6MB)](/assets/file/ICCV2025shenzhen_compact.pdf) for ICCV 2025 at Shenzhen.
 
 You can click the following photo to view it online without downloading it.
 
-[<img src="https://iccv2025shenzhen.github.io/index.png" width="638">](./another-page.html)
+[<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/another-page.html)
 
 <div class='embed-container'>
   <iframe src="https://docs.google.com/gview?url=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
