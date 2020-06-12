@@ -302,6 +302,14 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
+#project_title2 {
+  margin: 0;
+  color: #fff;
+  font-size: 36px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
+
 #project_tagline {
   color: #fff;
   font-size: 24px;
@@ -401,6 +409,10 @@ Small Device Styles
   font-size: 32px;
   }
 
+  #project_title2 {
+    font-size: 28px;
+  }
+
   h1 {
     font-size: 28px;
   }
@@ -447,6 +459,10 @@ Small Device Styles
 
   #project_title {
   font-size: 28px;
+  }
+
+  #project_title2 {
+    font-size: 22px;
   }
 
   h1 {
