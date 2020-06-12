@@ -50,18 +50,24 @@ These vivid cities are closely connnected via a world-class high-speed train sys
 We present a diverse organizing team that already covers the key roles, including three honorary Chairs, four General Chairs, five Program Chairs, two Finance Chairs and three Local Arrangement Chairs from the Americas, Asia-Pacific Region and Europe. Young talents are well represented on the team, who will work closely with the senior members in organizing the conference and preparing a high-quality program. Other organizing committee members will be filled in later, again according to the principle of diversity.
 
 
-## Our proposal
+<!-- ## Our proposal
 
 You are sincerely invited to download and read our proposal [(high resolution, 15MB)](/assets/file/ICCV2025shenzhen.pdf) and [(low resolution, 6MB)](/assets/file/ICCV2025shenzhen_compact.pdf) for hosting ICCV 2025 at Shenzhen.
 
 ### Online Preview
 
-<!-- You can click [here](/ICCV2025shenzhen.html) or on the following photo to view it online without downloading it. -->
+You can click [here](/ICCV2025shenzhen.html) or on the following photo to view it online without downloading it.
 
-<!-- [<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html) -->
+[<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html) -->
 
-### Adobe pdf viewer 
 
+## Our proposal
+
+You are sincerely invited to download and read our proposal [(high resolution, 15MB)](/assets/file/ICCV2025shenzhen.pdf) and [(low resolution, 6MB)](/assets/file/ICCV2025shenzhen_compact.pdf) for hosting ICCV 2025 at Shenzhen. Besides, you can click [here](/ICCV2025shenzhen.html) to view it online on a new page without downloading it. 
+
+### Online Preview
+
+<!-- #### Adobe pdf viewer  -->
 <div class='embed-container'>
 <div id="adobe-dc-view"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
@@ -78,21 +84,21 @@ You are sincerely invited to download and read our proposal [(high resolution, 1
 </script>
 </div>
 
-You can click [here](/ICCV2025shenzhen.html) to view it online on a new page without downloading it. 
+If there is any problem with the preview above, you can click [here](/ICCV2025shenzhen.html) to view it online on a new page without downloading it. 
 
-<!-- ### google pdf viewer
+<!-- #### google pdf viewer
 
 <div class='embed-container'>
   <iframe src="https://docs.google.com/gview?url=https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
 </div> -->
 
-<!-- ### microsoft office viewer (Onedrive)
+<!-- #### microsoft office viewer (Onedrive)
 
 <div class='embed-container'>
 <iframe src="https://onedrive.live.com/embed?cid=2FED62D4BCB561E8&amp;resid=2FED62D4BCB561E8%2111851&amp;authkey=ANpzeHDY4-a0pkE&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">这是嵌入 <a target="_blank" href="https://office.com">Microsoft Office</a> 演示文稿，由 <a target="_blank" href="https://office.com/webapps">Office</a> 提供支持。</iframe>
 </div> -->
 
-<!-- ### microsoft office viewer  (Officeapps)
+<!-- #### microsoft office viewer  (Officeapps)
 
 <div class='embed-container'>
   <iframe src='https://view.officeapps.live.com/op/view.aspx?src=https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pptx' width='100%' height='100%' frameborder='1'></iframe>
