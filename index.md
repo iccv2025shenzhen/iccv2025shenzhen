@@ -60,6 +60,21 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 
 [<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
 
+### Adobe pdf viewer
+
+<div id="adobe-dc-view" style="width: 800px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = 
+        new AdobeDC.View({clientId: "a27094025e5f4cf49abe12f4dc037eab", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf"}},
+			metaData:{fileName: "ICCV2025shenzhen_compact.pdf"}
+		}, {embedMode: "IN_LINE"});
+	});
+</script>
+
 ### google pdf viewer
 
 <div class='embed-container'>
