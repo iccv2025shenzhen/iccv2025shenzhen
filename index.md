@@ -67,7 +67,7 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 
 <div class="center-div">
 <div class="button-group">
-    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button primary big icon arrowdown">Download (high resolution, 14.0MB)</a>
+    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button primary icon arrowdown">Download (high resolution, 14.0MB)</a>
     <a href="https://drive.google.com/file/d/1oVAyvmS09xwS4IzJSxIA-cWiWLqnNHLG/view?usp=sharing" class="button">Google Drive</a>
     <a href="#" class="button">BaiduYun</a>
 </div>
@@ -75,7 +75,7 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 
 <div class="center-div">
 <div class="button-group">
-    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button primary big icon arrowdown">Download (low resolution, 6.51MB)&nbsp;&thinsp;</a>
+    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button primary icon arrowdown">Download (low resolution, 6.51MB)&nbsp;&thinsp;</a>
     <a href="https://drive.google.com/file/d/1QwkQAVZ6p8bIbcvHQeG0mWH8-8VC8Qbo/view?usp=sharing" class="button">Google Drive</a>
     <a href="#" class="button">BaiduYun</a>
 </div>
