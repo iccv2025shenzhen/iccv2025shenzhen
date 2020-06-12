@@ -69,12 +69,12 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
     <li><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button primary">
     High Resolution, 15MB
     </a></li>
-    <li><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button">
+    <li><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button primary">
     Low Resolution, 6MB
     </a></li>
 </ul>
 
-Besides, you can click <a href="/ICCV2025shenzhen.html" class="button icon arrowright">here</a> to view it online on a new page without downloading it. 
+Besides, you can click <a href="/ICCV2025shenzhen.html" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it. 
 
 ### Online Preview
 
