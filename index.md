@@ -63,7 +63,7 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 ### Adobe pdf viewer
 
 <div class='embed-container'>
-<div id="adobe-dc-view"></div>
+<div id="adobe-dc-view" style="width: 800px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
@@ -72,7 +72,7 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 		adobeDCView.previewFile({
 			content:{location: {url: "https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf"}},
 			metaData:{fileName: "ICCV2025shenzhen_compact.pdf"}
-		}, {defaultViewMode: "FIT_WIDTH", showAnnotationTools: false});
+		}, {embedMode: "IN_LINE"});
 	});
 </script>
 </div>
