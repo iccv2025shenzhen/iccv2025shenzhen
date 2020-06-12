@@ -62,7 +62,7 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 
 ### Adobe pdf viewer
 
-<!-- <div class='embed-container'> -->
+<div class='embed-container'>
 <div id="adobe-dc-view"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
@@ -76,7 +76,7 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 			dockPageControls: false});
 	});
 </script>
-<!-- </div> -->
+</div>
 
 ### google pdf viewer
 
