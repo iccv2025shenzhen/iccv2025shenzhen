@@ -70,8 +70,8 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
   		var adobeDCView = 
           new AdobeDC.View({clientId: "a27094025e5f4cf49abe12f4dc037eab", divId: "adobe-dc-view"});
   		adobeDCView.previewFile({
-  			content:{location: {url: "https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf"}},
-  			metaData:{fileName: "Bodea Brochure.pdf"}
+  			content:{location: {url: "https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf}},
+  			metaData:{fileName: "ICCV2025shenzhen_compact.pdf"}
   		}, {});
   	});
   </script>
