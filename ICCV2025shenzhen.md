@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Back to Home](/)
+<a href="/index.html" class="button icon arrowleft primary">Back to Home</a>
 ![1](/assets/images/shenzhen/ICCV2025shenzhen (1).png)
 ![2](/assets/images/shenzhen/ICCV2025shenzhen (2).png)
 ![3](/assets/images/shenzhen/ICCV2025shenzhen (3).png)
@@ -53,5 +53,4 @@ layout: default
 ![49](/assets/images/shenzhen/ICCV2025shenzhen (49).png)
 ![50](/assets/images/shenzhen/ICCV2025shenzhen (50).png)
 ![51](/assets/images/shenzhen/ICCV2025shenzhen (51).png)
-
-[Back to Home](/)
+<a href="/index.html" class="button icon arrowleft primary">Back to Home</a>
