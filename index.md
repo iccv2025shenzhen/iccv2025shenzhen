@@ -75,9 +75,7 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 		</a>
 	</div>
 </div>
-
 <br>
-
 Besides, you can click <a href="/ICCV2025shenzhen.html" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it. 
 
 ### Online Preview
