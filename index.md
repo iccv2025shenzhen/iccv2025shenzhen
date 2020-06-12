@@ -65,21 +65,10 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 
 You are sincerely invited to download and read our proposal for hosting ICCV 2025 at Shenzhen. 
 
-- high resolution, 15MB <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button big icon arrowdown">Download (high resolution, 15MB)</a>
-
-- low resolution, 6MB <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button big icon arrowdown">Download (low resolution, 6MB)</a>
-
 <div class="center-div">
 <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button big icon arrowdown">Download (high resolution, 15MB)</a>
-<a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button big icon arrowdown">Download (low resolution, 6MB)</a>
-<div class="actions button-container">
-    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button primary icon arrowdown">
-		Download (high resolution, 15MB)
-	</a>
-    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button primary icon arrowdown">
-		Download (low resolution, 6MB)
-	</a>
-</div>
+
+<a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button big icon arrowdown">Download (low resolution,  6MB)</a>
 </div>
 
 Besides, you can click <a href="/ICCV2025shenzhen.html" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it. 
