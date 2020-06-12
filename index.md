@@ -66,8 +66,8 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 You are sincerely invited to download and read our proposal for hosting ICCV 2025 at Shenzhen. <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button icon arrowdown primary">high resolution, 15M</a> <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button icon arrowdown primary">low resolution, 6MB</a>
 
 <ul class="button-group">
-    <li>high resolution, 15M<a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button primary pill arrowdown">Download</a></li>
-    <li><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button primary arrowdown pill">low resolution, 6MB, Download</a></li>
+    <li><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button primary pill arrowdown">High Resolution, 15M, Download</a></li>
+    <li><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button primary arrowdown pill">Low Resolution, 6MB, Download</a></li>
 </ul>
 
 <div style="text-align: center;">
