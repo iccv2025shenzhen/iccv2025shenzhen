@@ -81,7 +81,7 @@ Besides, you can click <a href="/ICCV2025shenzhen.html" class="button primary ic
 ### Online Preview
 
 <!-- #### Adobe pdf viewer  -->
-<div class='embed-container' text-align:center>
+<div class='pdf-container' text-align:center>
 <div id="adobe-dc-view"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
