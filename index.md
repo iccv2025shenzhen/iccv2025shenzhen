@@ -70,7 +70,7 @@ You are sincerely invited to download and read our proposal [(high resolution, 1
     <li><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button">low resolution, 6MB</a></li>
 </ul>
 
-<a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button icon arrowdown">low resolution, 6MB<</a>
+<a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button icon arrowdown">low resolution, 6MB</a>
 
 ### Online Preview
 
