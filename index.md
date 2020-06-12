@@ -58,7 +58,7 @@ You are sincerely invited to download and read our proposal [(high resolution, 1
 
 ### Online Preview
 
-You can click [here](ICCV2025shenzhen.html) or the following photo to view it online without downloading it.
+You can click [here](/ICCV2025shenzhen.html) or the following photo to view it online without downloading it.
 
 [<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
 
