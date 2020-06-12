@@ -69,7 +69,7 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 <div class="button-group">
     <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Download (14.0MB)</a>
     <a href="https://drive.google.com/file/d/1oVAyvmS09xwS4IzJSxIA-cWiWLqnNHLG/view?usp=sharing" target="_blank" class="button">Google Drive</a>
-    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button">Gitee (within China)</a>
+    <a href="https://iccv2025shenzhen.gitee.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button">Gitee (within China)</a>
 </div>
 </div>
 
