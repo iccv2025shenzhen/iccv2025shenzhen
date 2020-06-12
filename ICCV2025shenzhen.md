@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-
 [Back to Home](/)
-
 ![1](/assets/images/shenzhen/ICCV2025shenzhen (1).png)
 ![2](/assets/images/shenzhen/ICCV2025shenzhen (2).png)
 ![3](/assets/images/shenzhen/ICCV2025shenzhen (3).png)
