@@ -61,6 +61,10 @@ You are sincerely invited to download and read our proposal [(high resolution, 1
 </div>
 
 <div class='embed-container'>
+<iframe src="https://onedrive.live.com/embed?cid=2FED62D4BCB561E8&amp;resid=2FED62D4BCB561E8%2111851&amp;authkey=ANpzeHDY4-a0pkE&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">这是嵌入 <a target="_blank" href="https://office.com">Microsoft Office</a> 演示文稿，由 <a target="_blank" href="https://office.com/webapps">Office</a> 提供支持。</iframe>
+</div>
+
+<div class='embed-container'>
   <iframe src='https://view.officeapps.live.com/op/view.aspx?src=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen_compact.pptx' width='100%' height='100%' frameborder='1'></iframe>
 </div>
 
