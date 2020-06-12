@@ -60,7 +60,7 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 
 [<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
 
-### Adobe pdf viewer
+### Adobe pdf viewer 
 
 <div class='embed-container'>
 <div id="adobe-dc-view"></div>
@@ -72,7 +72,7 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 		adobeDCView.previewFile({
 			content:{location: {url: "https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf"}},
 			metaData:{fileName: "ICCV2025shenzhen_compact.pdf"}
-		}, {defaultViewMode: "FIT_WIDTH", showAnnotationTools: false, showLeftHandPanel: false, 
+		}, {defaultViewMode: "FIT_PAGE", showAnnotationTools: false, showLeftHandPanel: false, 
 			dockPageControls: false});
 	});
 </script>
@@ -84,11 +84,11 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
   <iframe src="https://docs.google.com/gview?url=https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
 </div>
 
-### microsoft office viewer (Onedrive)
+<!-- ### microsoft office viewer (Onedrive)
 
 <div class='embed-container'>
 <iframe src="https://onedrive.live.com/embed?cid=2FED62D4BCB561E8&amp;resid=2FED62D4BCB561E8%2111851&amp;authkey=ANpzeHDY4-a0pkE&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">这是嵌入 <a target="_blank" href="https://office.com">Microsoft Office</a> 演示文稿，由 <a target="_blank" href="https://office.com/webapps">Office</a> 提供支持。</iframe>
-</div>
+</div> -->
 
 <!-- ### microsoft office viewer  (Officeapps)
 
