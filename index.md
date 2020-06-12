@@ -86,7 +86,7 @@ Besides, you can click <a href="/ICCV2025shenzhen.html" class="button primary ic
 </script>
 </div>
 
-If there is any problem with the preview above, you can click [here](/ICCV2025shenzhen.html) to view it online on a new page without downloading it. 
+If there is any problem with the preview above, you can click <a href="/ICCV2025shenzhen.html" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it. 
 
 <!-- #### google pdf viewer
 
