@@ -65,7 +65,7 @@ You are sincerely invited to download and read our proposal [(high resolution, 1
 </div>
 
 <div class='embed-container'>
-  <iframe src='https://view.officeapps.live.com/op/view.aspx?src=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen_compact.pptx' width='100%' height='100%' frameborder='1'></iframe>
+  <iframe src='https://view.officeapps.live.com/op/view.aspx?src=https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pptx' width='100%' height='100%' frameborder='1'></iframe>
 </div>
 
 You can click [here](ICCV2025shenzhen.html) or the following photo to view it online without downloading it.
