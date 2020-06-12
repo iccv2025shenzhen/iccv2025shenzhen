@@ -64,24 +64,22 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 ## Our proposal
 
 You are sincerely invited to download and read our proposal for hosting ICCV 2025 at Shenzhen. <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button icon arrowdown primary">high resolution, 15M</a> <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button icon arrowdown primary">low resolution, 6MB</a>
+
+<ul class="button-group">
+    <li>high resolution, 15M<a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button primary pill arrowdown">Download</a></li>
+    <li><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button primary arrowdown pill">low resolution, 6MB, Download</a></li>
+</ul>
+
 <div style="text-align: center;">
 <table class="table table-bordered" style="margin: auto;">
-  <!-- <caption>a</caption>
-  <thead>
-    <tr>
-      <th>a</th>
-      <th>a</th>
-      <th>a</th>
-    </tr>
-  </thead> -->
   <tbody>
     <tr>
       <td>high resolution, 15M</td>
-      <td><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button icon arrowdown primary">Download</a></td>
+      <td><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" class="button primary icon arrowdown">Download</a></td>
     </tr>
     <tr>
       <td>high resolution, 15M</td>
-      <td><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button icon arrowdown primary">Download</a></td>
+      <td><a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" class="button primary icon arrowdown">Download</a></td>
     </tr>
   </tbody>
 </table>
