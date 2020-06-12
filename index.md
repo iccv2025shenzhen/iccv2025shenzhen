@@ -87,8 +87,8 @@ Besides, you can click <a href="/ICCV2025shenzhen.html" class="button primary ic
 		adobeDCView.previewFile({
 			content:{location: {url: "https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf"}},
 			metaData:{fileName: "ICCV2025shenzhen_compact.pdf"}
-		}, {defaultViewMode: "FIT_PAGE", showAnnotationTools: false, showLeftHandPanel: false, 
-			dockPageControls: false});
+		}, {defaultViewMode: "FIT_PAGE", showAnnotationTools: false, showLeftHandPanel: true, 
+			dockPageControls: true});
 	});
 </script>
 </div>
