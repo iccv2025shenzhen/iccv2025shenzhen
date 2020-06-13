@@ -67,9 +67,8 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 
 <div class="center-div">
 <div class="button-group">
-    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Download (14.0MB)</a>
-    <a href="https://drive.google.com/file/d/1oVAyvmS09xwS4IzJSxIA-cWiWLqnNHLG/view?usp=sharing" target="_blank" class="button">Google Drive</a>
-    <a href="https://iccv2025shenzhen.gitee.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button">Gitee (within China)</a>
+    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Download (high resolution, 14.0MB)</a>
+    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" target="_blank" class="button primary icon arrowdown">Download (low resolution, 6.51MB)&nbsp;&thinsp;</a>
 </div>
 </div>
 
@@ -93,7 +92,8 @@ Besides, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="b
 
 ### Online Preview
 
-<!-- #### Adobe pdf viewer  -->
+#### Adobe Pdf Viewer 
+
 <div class='pdf-container' text-align:center>
 <div id="adobe-dc-view"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
@@ -110,19 +110,25 @@ Besides, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="b
 </script>
 </div>
 
-If there is any problem with the preview above, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it. 
+#### Image Preview
 
-<!-- #### google pdf viewer
+You can click on the following photo to view it online without downloading it.
 
-<div class='embed-container'>
-  <iframe src="https://docs.google.com/gview?url=https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-</div> -->
+[<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
 
-<!-- #### microsoft office viewer (Onedrive)
+#### google Pdf Viewer (form Google Dirve)
+
+<div class='pdf-container'>
+  <iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1QwkQAVZ6p8bIbcvHQeG0mWH8-8VC8Qbo/view?usp=sharing&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+</div>
+
+<!-- If there is any problem with the preview above, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it.  -->
+
+#### Microsoft Office Viewer (from Onedrive)
 
 <div class='embed-container'>
 <iframe src="https://onedrive.live.com/embed?cid=2FED62D4BCB561E8&amp;resid=2FED62D4BCB561E8%2111851&amp;authkey=ANpzeHDY4-a0pkE&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">这是嵌入 <a target="_blank" href="https://office.com">Microsoft Office</a> 演示文稿，由 <a target="_blank" href="https://office.com/webapps">Office</a> 提供支持。</iframe>
-</div> -->
+</div>
 
 <!-- #### microsoft office viewer  (Officeapps)
 
