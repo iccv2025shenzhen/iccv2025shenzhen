@@ -72,6 +72,10 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 </div>
 </div>
 
+You can click on the following photo to view it online without downloading it.
+
+[<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
+
 <!-- <div class="center-div">
 <div class="button-group">
     <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Download (high resolution, 14.0MB)</a>
@@ -88,7 +92,7 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 </div>
 </div> -->
 
-Besides, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it. 
+<!-- Besides, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it.  -->
 
 ### Online Preview
 
@@ -108,12 +112,6 @@ Besides, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="b
 </script>
 </div>
 
-### Image Preview
-
-You can click on the following photo to view it online without downloading it.
-
-[<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
-
 <!-- #### google Pdf Viewer (form Google Dirve)
 
 <div class='pdf-container'>
@@ -122,11 +120,11 @@ You can click on the following photo to view it online without downloading it.
 
 <!-- If there is any problem with the preview above, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it.  -->
 
-#### Microsoft Office Viewer (from Onedrive)
+<!-- #### Microsoft Office Viewer (from Onedrive)
 
 <div class='embed-container'>
 <iframe src="https://onedrive.live.com/embed?cid=2FED62D4BCB561E8&amp;resid=2FED62D4BCB561E8%2111851&amp;authkey=ANpzeHDY4-a0pkE&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">这是嵌入 <a target="_blank" href="https://office.com">Microsoft Office</a> 演示文稿，由 <a target="_blank" href="https://office.com/webapps">Office</a> 提供支持。</iframe>
-</div>
+</div> -->
 
 <!-- #### microsoft office viewer  (Officeapps)
 
