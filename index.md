@@ -70,7 +70,7 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 <div class="center-div">
 <div class="button-group">
     <a href="https://drive.google.com/file/d/1oVAyvmS09xwS4IzJSxIA-cWiWLqnNHLG/view?usp=sharing" target="_blank" class="button primary icon arrowdown">Google Drive</a>
-    <a href="#" target="_blank" class="button primary icon arrowdown">Onedrive</a>
+    <a href="https://1drv.ms/b/s!AuhhtbzUYu0v3E-y0OaUF3qyDO-u?e=R7gZrw" target="_blank" class="button primary icon arrowdown">Onedrive</a>
     <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Github</a>
     <a href="https://iccv2025shenzhen.gitee.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Gitee (within China)</a>
 </div>
@@ -80,7 +80,7 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 <div class="center-div"> 
 <div class="button-group">
     <a href="https://drive.google.com/file/d/1QwkQAVZ6p8bIbcvHQeG0mWH8-8VC8Qbo/view?usp=sharing" target="_blank" class="button primary icon arrowdown">Google Drive</a>
-    <a href="https://1drv.ms/b/s!AuhhtbzUYu0v3E-y0OaUF3qyDO-u?e=R7gZrw" target="_blank" class="button primary icon arrowdown">Onedrive</a>
+    <a href="https://1drv.ms/b/s!AuhhtbzUYu0v3E7dgwHlzm_h_M_9?e=6mEecE" target="_blank" class="button primary icon arrowdown">Onedrive</a>
     <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" target="_blank" class="button primary icon arrowdown">Github</a>
     <a href="https://iccv2025shenzhen.gitee.io/assets/file/ICCV2025shenzhen_compact.pdf" target="_blank" class="button primary icon arrowdown">Gitee (within China)</a>
 </div>
