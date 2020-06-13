@@ -47,7 +47,7 @@ These vivid cities are closely connnected via a world-class high-speed train sys
 
 ### Diverse Team (人和)
 
-We present a diverse organizing team that already covers the key roles, including three honorary Chairs, four General Chairs, five Program Chairs, two Finance Chairs and three Local Arrangement Chairs from the Americas, Asia-Pacific Region and Europe. Young talents are well represented on the team, who will work closely with the senior members in organizing the conference and preparing a high-quality program. Other organizing committee members will be filled in later, again according to the principle of diversity and inclusion.  We will also add diversity and inclusion chairs to enforce and promote this principle in the conference attendance and organization.
+We present a diverse organizing team that already covers the key roles, including three honorary Chairs, four General Chairs, five Program Chairs, two Finance Chairs and three Local Arrangement Chairs from the Americas, Asia-Pacific Region and Europe. Young talents are well represented on the team, who will work closely with the senior members in organizing the conference and preparing a high-quality program. Other organizing committee members will be filled in later, again according to the principle of diversity and inclusion. 
 
 
 <!-- ## Our proposal
