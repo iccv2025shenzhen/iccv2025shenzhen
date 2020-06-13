@@ -65,23 +65,26 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 
 You are sincerely invited to download and read our proposal for hosting ICCV 2025 at Shenzhen.
 
-<!-- <div class="center-div"> -->
+
 - High resolution, 14MB: 
+<div class="center-div">
 <div class="button-group">
     <a href="https://drive.google.com/file/d/1oVAyvmS09xwS4IzJSxIA-cWiWLqnNHLG/view?usp=sharing" target="_blank" class="button primary icon arrowdown">Google Drive</a>
     <a href="#" target="_blank" class="button primary icon arrowdown">Onedrive</a>
     <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Github</a>
     <a href="https://iccv2025shenzhen.gitee.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Gitee (within China)</a>
 </div>
+</div>
 
-- Low resolution, 6.51MB: 
+- Low resolution, 6.51MB:
+<div class="center-div"> 
 <div class="button-group">
     <a href="https://drive.google.com/file/d/1QwkQAVZ6p8bIbcvHQeG0mWH8-8VC8Qbo/view?usp=sharing" target="_blank" class="button primary icon arrowdown">Google Drive</a>
     <a href="#" target="_blank" class="button primary icon arrowdown">Onedrive</a>
     <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" target="_blank" class="button primary icon arrowdown">Github</a>
     <a href="https://iccv2025shenzhen.gitee.io/assets/file/ICCV2025shenzhen_compact.pdf" target="_blank" class="button primary icon arrowdown">Gitee (within China)</a>
 </div>
-<!-- </div> -->
+</div>
 
 <!-- <div class="center-div">
 <div class="button-group">
