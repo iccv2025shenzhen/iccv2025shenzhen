@@ -43,11 +43,11 @@ Shenzhen is such a dynamic city where traddition and modernity converge.  We sin
 
 The proposed conference is scheduled to be a seven-day event, beginning 14 December 2025 through 20 December 2025. Shenzhen has a very pleasant winter in this period, with an average temperature of 65°F or 18°C in December.  You will have an enjoyable holiday season travel to Shenzhen, and have the chance to visit many dynamic cities such as Gangzhou (29 min by train), Hong Kong (18 min by train) and Macau and Zhuhai (by ferry, or via the HZM bridge, the world's longest sea crossing bridge of 34 miles) in the Greater Bay Area. 
 
-These vivid cities are closely connnected via a world-class high-speed train system, making traveling in the Greater Bay Area super easy, comfortable and affordable. You will have an unforgettable holiday with your family and significant ones, welcoming the new year of 2026 together in Shenzhen's best beach hotels, on the Pearl River night cruise of Guangzhou, in the Disneyland theme park of Hong Kong, or in the Sands' landmark casino hotels of Macau.
+These vivid cities are closely connnected via a world-class high-speed train system, making traveling in the Greater Bay Area super easy, comfortable and affordable. You will have an unforgettable holiday with your family and significant ones, welcoming the new year of 2026 together in Shenzhen's best beach resorts, on the Pearl River night cruise of Guangzhou, in the Disneyland theme park of Hong Kong, or in the Sands' landmark casino hotels of Macau.
 
 ### Diverse Team (人和)
 
-We present a diverse organizing team that already covers the key roles, including three honorary Chairs, four General Chairs, five Program Chairs, two Finance Chairs and three Local Arrangement Chairs from the Americas, Asia-Pacific Region and Europe. Young talents are well represented on the team, who will work closely with the senior members in organizing the conference and preparing a high-quality program. Other organizing committee members will be filled in later, again according to the principle of diversity.
+We present a diverse organizing team that already covers the key roles, including three honorary Chairs, four General Chairs, five Program Chairs, two Finance Chairs and three Local Arrangement Chairs from the Americas, Asia-Pacific Region and Europe. Young talents are well represented on the team, who will work closely with the senior members in organizing the conference and preparing a high-quality program. Other organizing committee members will be filled in later, again according to the principle of diversity and inclusion.  We will also add diversity and inclusion chairs to enforce and promote this principle in the conference attendance and organization.
 
 
 <!-- ## Our proposal
