@@ -92,8 +92,6 @@ Besides, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="b
 
 ### Online Preview
 
-#### Adobe Pdf Viewer 
-
 <div class='pdf-container' text-align:center>
 <div id="adobe-dc-view"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
@@ -103,24 +101,24 @@ Besides, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="b
         new AdobeDC.View({clientId: "a27094025e5f4cf49abe12f4dc037eab", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf"}},
-			metaData:{fileName: "Shenzhen 2025"}
+			metaData:{fileName: "ICCV2025shenzhen_compact.pdf"}
 		}, {defaultViewMode: "FIT_WIDTH", showAnnotationTools: false, showLeftHandPanel: true, 
 			dockPageControls: false});
 	});
 </script>
 </div>
 
-#### Image Preview
+### Image Preview
 
 You can click on the following photo to view it online without downloading it.
 
 [<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
 
-#### google Pdf Viewer (form Google Dirve)
+<!-- #### google Pdf Viewer (form Google Dirve)
 
 <div class='pdf-container'>
   <iframe src="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
-</div>
+</div> -->
 
 <!-- If there is any problem with the preview above, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it.  -->
 
