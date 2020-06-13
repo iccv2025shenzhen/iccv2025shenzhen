@@ -102,7 +102,7 @@ Besides, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="b
 		adobeDCView.previewFile({
 			content:{location: {url: "https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf"}},
 			metaData:{fileName: "ICCV2025shenzhen_compact.pdf"}
-		}, {defaultViewMode: "FIT_WIDTH", showAnnotationTools: false, showLeftHandPanel: true, 
+		}, {defaultViewMode: "FIT_WIDTH", showAnnotationTools: false, showLeftHandPanel: false, 
 			dockPageControls: false});
 	});
 </script>
