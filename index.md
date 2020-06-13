@@ -65,16 +65,23 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 
 You are sincerely invited to download and read our proposal for hosting ICCV 2025 at Shenzhen.
 
-<div class="center-div">
+<!-- <div class="center-div"> -->
+- High resolution, 14MB: 
 <div class="button-group">
-    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Download (high resolution, 14.0MB)</a>
-    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" target="_blank" class="button primary icon arrowdown">Download (low resolution, 6.51MB)&nbsp;&thinsp;</a>
-</div>
+    <a href="https://drive.google.com/file/d/1oVAyvmS09xwS4IzJSxIA-cWiWLqnNHLG/view?usp=sharing" target="_blank" class="button primary icon arrowdown">Google Drive</a>
+    <a href="#" target="_blank" class="button primary icon arrowdown">Onedrive</a>
+    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Github</a>
+    <a href="https://iccv2025shenzhen.gitee.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Gitee (within China)</a>
 </div>
 
-You can click on the following photo to view it online without downloading it.
-
-[<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
+- Low resolution, 6.51MB: 
+<div class="button-group">
+    <a href="https://drive.google.com/file/d/1QwkQAVZ6p8bIbcvHQeG0mWH8-8VC8Qbo/view?usp=sharing" target="_blank" class="button primary icon arrowdown">Google Drive</a>
+    <a href="#" target="_blank" class="button primary icon arrowdown">Onedrive</a>
+    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" target="_blank" class="button primary icon arrowdown">Github</a>
+    <a href="https://iccv2025shenzhen.gitee.io/assets/file/ICCV2025shenzhen_compact.pdf" target="_blank" class="button primary icon arrowdown">Gitee (within China)</a>
+</div>
+<!-- </div> -->
 
 <!-- <div class="center-div">
 <div class="button-group">
@@ -111,6 +118,12 @@ You can click on the following photo to view it online without downloading it.
 	});
 </script>
 </div>
+
+### Image Preview
+
+You can click on the following photo to view it online without downloading it.
+
+[<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
 
 <!-- #### google Pdf Viewer (form Google Dirve)
 
