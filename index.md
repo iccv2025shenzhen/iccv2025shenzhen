@@ -119,7 +119,7 @@ You can click on the following photo to view it online without downloading it.
 #### google Pdf Viewer (form Google Dirve)
 
 <div class='pdf-container'>
-  <iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1QwkQAVZ6p8bIbcvHQeG0mWH8-8VC8Qbo/view?usp=sharing&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  <iframe src="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
 </div>
 
 <!-- If there is any problem with the preview above, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it.  -->
