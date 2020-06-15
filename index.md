@@ -99,9 +99,9 @@ You can click [here](/ICCV2025shenzhen.html) or on the following photo to view i
 
 [<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
 
-We also invite you to watch the following video presentation by the bidding general co-chair Prof. Jiebo Luo from the University of Rochester. 
-
 ### Virtual Presentation
+
+We also invite you to watch the following video presentation by the bidding general co-chair Prof. Jiebo Luo from the University of Rochester.
 
 #### Youtube.com 
 
