@@ -104,7 +104,7 @@ We also invite you to watch the following video presentation by the bidding gene
 #### Youtube.com 
 
 <div class='embed-container'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/GR7QO_SA2D4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lRGlSjluf3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 #### Bilibili.com (within China)
