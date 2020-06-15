@@ -50,17 +50,6 @@ These vivid cities are closely connnected via a world-class high-speed train sys
 We present a diverse organizing team that already covers the key roles, including three honorary Chairs, four General Chairs, five Program Chairs, two Finance Chairs and three Local Arrangement Chairs from the Americas, Asia-Pacific Region and Europe. Young talents are well represented on the team, who will work closely with the senior members in organizing the conference and preparing a high-quality program. Other organizing committee members will be filled in later, again according to the principle of diversity and inclusion. 
 
 
-<!-- ## Our proposal
-
-You are sincerely invited to download and read our proposal [(high resolution, 15MB)](/assets/file/ICCV2025shenzhen.pdf) and [(low resolution, 6MB)](/assets/file/ICCV2025shenzhen_compact.pdf) for hosting ICCV 2025 at Shenzhen.
-
-### Online Preview
-
-You can click [here](/ICCV2025shenzhen.html) or on the following photo to view it online without downloading it.
-
-[<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html) -->
-
-
 ## Our proposal
 
 You are sincerely invited to download and read our proposal for hosting ICCV 2025 at Shenzhen.
@@ -86,23 +75,19 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 </div>
 </div>
 
-<!-- <div class="center-div">
-<div class="button-group">
-    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen.pdf" target="_blank" class="button primary icon arrowdown">Download (high resolution, 14.0MB)</a>
-    <a href="https://drive.google.com/file/d/1oVAyvmS09xwS4IzJSxIA-cWiWLqnNHLG/view?usp=sharing" target="_blank" class="button">Google Drive</a>
-    <a href="#" class="button">BaiduYun</a>
-</div>
+We also invite you to watch the following video presentation by the bidding general co-chair Prof. Jiebo Luo from the University of Rochester. 
+
+#### Youtube.com 
+
+<div class='embed-container'>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GR7QO_SA2D4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div class="center-div">
-<div class="button-group">
-    <a href="https://iccv2025shenzhen.github.io/assets/file/ICCV2025shenzhen_compact.pdf" target="_blank" class="button primary icon arrowdown">Download (low resolution, 6.51MB)&nbsp;&thinsp;</a>
-    <a href="https://drive.google.com/file/d/1QwkQAVZ6p8bIbcvHQeG0mWH8-8VC8Qbo/view?usp=sharing" target="_blank" class="button">Google Drive</a>
-    <a href="#" class="button">BaiduYun</a>
-</div>
-</div> -->
+#### Bilibili.com (within China)
 
-<!-- Besides, you can click <a href="/ICCV2025shenzhen.html" target="_blank" class="button primary icon arrowright">here</a> to view it online on a new page without downloading it.  -->
+<div class='embed-container'>
+  <iframe src="//player.bilibili.com/player.html?aid=753527587&bvid=BV17k4y1z7Xz&cid=202160561&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
 
 ### Online Preview
 
