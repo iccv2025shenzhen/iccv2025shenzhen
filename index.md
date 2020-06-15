@@ -75,20 +75,6 @@ You are sincerely invited to download and read our proposal for hosting ICCV 202
 </div>
 </div>
 
-We also invite you to watch the following video presentation by the bidding general co-chair Prof. Jiebo Luo from the University of Rochester. 
-
-#### Youtube.com 
-
-<div class='embed-container'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/GR7QO_SA2D4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-#### Bilibili.com (within China)
-
-<div class='embed-container'>
-  <iframe src="//player.bilibili.com/player.html?aid=753527587&bvid=BV17k4y1z7Xz&cid=202160561&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</div>
-
 ### Online Preview
 
 <div class='pdf-container' text-align:center>
@@ -112,6 +98,20 @@ We also invite you to watch the following video presentation by the bidding gene
 You can click [here](/ICCV2025shenzhen.html) or on the following photo to view it online without downloading it.
 
 [<img src="https://iccv2025shenzhen.github.io/assets/images/ICCV2025shenzhen.png" width="638">](/ICCV2025shenzhen.html)
+
+We also invite you to watch the following video presentation by the bidding general co-chair Prof. Jiebo Luo from the University of Rochester. 
+
+#### Youtube.com 
+
+<div class='embed-container'>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GR7QO_SA2D4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+#### Bilibili.com (within China)
+
+<div class='embed-container'>
+  <iframe src="//player.bilibili.com/player.html?aid=753527587&bvid=BV17k4y1z7Xz&cid=202160561&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
 
 <!-- #### google Pdf Viewer (form Google Dirve)
 
