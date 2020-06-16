@@ -143,5 +143,5 @@ Having questions about our proposal? Email us at iccv2025@gmail.com and we are l
 You can submit your votes at <a href="https://www.thecvf.com/voting/" target="_blank">https://www.thecvf.com/voting/</a> using your CVPR 2020 conference registration number.
 
 <div class="center-div">
-<img src="https://iccv2025shenzhen.github.io/assets/images/shenzhen_voting.png" width="100">
+<img src="https://iccv2025shenzhen.github.io/assets/images/shenzhen_voting_en.png" width="200">
 </div>
