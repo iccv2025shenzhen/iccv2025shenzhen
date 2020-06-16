@@ -139,3 +139,9 @@ We also invite you to watch the following video presentation by the bidding gene
 ## Questions and Feedback?
 
 Having questions about our proposal? Email us at iccv2025@gmail.com and we are looking forward to hearing your opinions and suggestions about our proposal.
+
+You can submit your votes using your CVPR 2020 conference registration number at https://www.thecvf.com/voting/. 
+
+<div class="center-div">
+<img src="https://iccv2025shenzhen.github.io/assets/images/shenzhen_voting.png" width="100">
+</div>
